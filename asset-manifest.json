@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ju-jyun/disease-data-app.git/static/css/main.773e6c89.css",
+    "main.js": "/ju-jyun/disease-data-app.git/static/js/main.98a793f1.js",
+    "static/js/787.bb843cc7.chunk.js": "/ju-jyun/disease-data-app.git/static/js/787.bb843cc7.chunk.js",
+    "index.html": "/ju-jyun/disease-data-app.git/index.html",
+    "main.773e6c89.css.map": "/ju-jyun/disease-data-app.git/static/css/main.773e6c89.css.map",
+    "main.98a793f1.js.map": "/ju-jyun/disease-data-app.git/static/js/main.98a793f1.js.map",
+    "787.bb843cc7.chunk.js.map": "/ju-jyun/disease-data-app.git/static/js/787.bb843cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773e6c89.css",
+    "static/js/main.98a793f1.js"
+  ]
+}
